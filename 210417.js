@@ -3,6 +3,6 @@ style.type = "text/css";
 var head = document.head;
 head.appendChild(style);
 
-style.sheet.insertRule("* { font-family: 'NanumBarunpen', cursive !important; }");
+style.sheet.insertRule("* { font-family: 'Pretendard', cursive !important; }");
 
 completion(true);
