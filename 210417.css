@@ -1,4 +1,3 @@
-body, div, span, p, li, ol, ul, a {
-    font-family: "Sandoll 고고Round 03 Rg";
-} head, strong {
-    font-family: "Sandoll 고고Round 05 Bd";
+{
+  font-family: 'Sandoll 고고Round' !important;
+}
